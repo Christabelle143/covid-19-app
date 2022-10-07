@@ -123,7 +123,7 @@ Array [
           style={
             Object {
               "border": "none",
-              "color": "black",
+              "color": "var(--light-secondary)",
               "outline": "none",
               "padding": "0.4rem",
               "width": "30%",
