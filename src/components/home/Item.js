@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import Items from './Items';
-import styles from '../css/items.module.css';
+import styles from '../css/style.module.css';
 
 const Item = ({ items = [] }) => (
   <ul className={styles.container}>

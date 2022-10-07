@@ -5,7 +5,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import formatNumber from '../utils/formatNumber';
 import covid from '../../images/covid.svg';
-import styles from '../css/items.module.css';
+import styles from '../css/style.module.css';
 
 const Items = ({ confirmed, name }) => (
   <div className={styles['item-content']}>

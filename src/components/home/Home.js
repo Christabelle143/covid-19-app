@@ -9,7 +9,7 @@ import {
 import { fetchCountries } from '../../redux/countries/countries';
 import formatNumber from '../utils/formatNumber';
 import Africa from '../../images/africa.svg';
-import styles from '../css/home.module.css';
+import styles from '../css/style.module.css';
 import Item from './Item';
 
 const Home = () => {

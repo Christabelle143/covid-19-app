@@ -10,7 +10,7 @@ import {
 import { fetchCountry } from '../../redux/countries/countries';
 import formatNumber from '../utils/formatNumber';
 import image from '../../images/covid.svg';
-import styles from '../css/details.module.css';
+import styles from '../css/style.module.css';
 
 const Details = () => {
   const { name } = useParams();
