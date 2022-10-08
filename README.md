@@ -38,11 +38,11 @@ You will also see any lint errors in the console.
 
 ## Live Demo Link
 
-### [Live Demo]
+### [Live Demo](https://christabelle143-78cc21.netlify.app/)
 
 ## Loom Video Link
 
-### [Loom]
+### [Loom](https://www.loom.com/share/e826ba201e4146508c393a459515834c)
 
 
 
