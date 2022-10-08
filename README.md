@@ -42,7 +42,7 @@ You will also see any lint errors in the console.
 
 ## Loom Video Link
 
-### [Loom](https://www.loom.com/share/e826ba201e4146508c393a459515834c)
+### [Loom](https://www.loom.com/share/6358fabfdaa14102a46040e476bc610b)
 
 
 
@@ -133,8 +133,12 @@ Give a :star: if you like this project! ❤️❤️❤️
 
 ## Acknowledgments
 
-- Thanks to everyone who will get time to check this code especially to code reviewers.
+## Acknowledgments
+- [Microverse](https://www.microverse.org/)
+- [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs) from who I got my inspiration.
+- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
+- Thanks to Code Reviewers for the insightful feedback.
 
 ## 📝 License
 
-This project is [MIT](https://github.com/Christabelle143/covid-19-app/blob/dev/LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
