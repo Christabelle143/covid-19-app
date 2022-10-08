@@ -42,8 +42,8 @@ You will also see any lint errors in the console.
 
 ## Loom Video Link
 
-### [Loom](https://www.loom.com/share/6358fabfdaa14102a46040e476bc610b)
 
+### [Loom](https://www.loom.com/share/6358fabfdaa14102a46040e476bc610b)
 
 
 ## Getting Started
@@ -142,3 +142,4 @@ Give a :star: if you like this project! ❤️❤️❤️
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
