@@ -12,6 +12,7 @@
   --dark-secondary: #335185ff;
   --light-secondary: #3e61a4ff;
 }
+
 body {
   background-color: var(--secondary);
 }
