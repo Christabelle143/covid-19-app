@@ -38,11 +38,11 @@ You will also see any lint errors in the console.
 
 ## Live Demo Link
 
-### [Live Demo]
+### [Live Demo](https://christabelle143-78cc21.netlify.app/)
 
 ## Loom Video Link
 
-### [Loom]
+### [Loom](https://www.loom.com/share/e826ba201e4146508c393a459515834c)
 
 
 
@@ -137,4 +137,4 @@ Give a :star: if you like this project! ❤️❤️❤️
 
 ## 📝 License
 
-This project is [MIT](https://github.com/Christabelle143/covid-19-app/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Christabelle143/covid-19-app/blob/dev/MIT.md) licensed.
